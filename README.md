@@ -1,3 +1,6 @@
+# Props
+In this mini-project you will understand how to make use of props.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
