@@ -1,5 +1,5 @@
-# Props
-In this mini-project you will understand how to make use of props.
+# Mapping
+In this mini-project you will understand how to use map function.
 
 # Getting Started with Create React App
 
